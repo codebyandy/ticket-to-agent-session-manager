@@ -1,0 +1,6 @@
+.env
+dashboard.html
+.session-cache.json
+__pycache__/
+server.log
+docs/demo.html
